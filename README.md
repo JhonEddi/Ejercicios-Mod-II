@@ -43,10 +43,28 @@ Jhon Eddi Malagon Gonzalez - 20151020021
 
 ## Funciones y procedimientos
 
+65. Escribir un programa que calcule la potencia usando una función propia:
+[solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/65.py)
+
+66. Escribir un programa que calcule el factorial de un número leído desde el teclado usando funciones:
+[solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/66.py)
+
 ## Recursividad
+
+77. Escriba un programa que usando recursividad devuelva la cantidad de dígitos que tiene un número entero:
+[solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/77.py)
+
+78. Escribir un programa que usando recursividad calcule el producto de dos enteros usando sumas sucesivas:
+[solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/78.py)
 
 ## Módulos
 
 ## Archivos
+
+86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto:
+[solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/86.py)
+
+87. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior:
+[solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/87.py)
 
 ## Ejercicios varios
