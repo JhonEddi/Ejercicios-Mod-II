@@ -57,8 +57,6 @@ Jhon Eddi Malagon Gonzalez - 20151020021
 78. Escribir un programa que usando recursividad calcule el producto de dos enteros usando sumas sucesivas:
 [solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/78.py)
 
-## Módulos
-
 ## Archivos
 
 86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto:
@@ -66,5 +64,3 @@ Jhon Eddi Malagon Gonzalez - 20151020021
 
 87. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior:
 [solucion](https://github.com/JhonEddi/Ejercicios-Mod-II/blob/master/Ejercicios/87.py)
-
-## Ejercicios varios
